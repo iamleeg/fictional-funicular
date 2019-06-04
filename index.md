@@ -3,5 +3,5 @@ Second comnit
 Third commit
 
 
-This is no longer an isolated line.
+This is an isolated line.
 
